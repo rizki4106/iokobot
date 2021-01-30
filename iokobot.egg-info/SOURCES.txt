@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+iokobot/__init__.py
+iokobot/bot.py
+iokobot/math.py
+iokobot.egg-info/PKG-INFO
+iokobot.egg-info/SOURCES.txt
+iokobot.egg-info/dependency_links.txt
+iokobot.egg-info/top_level.txt
