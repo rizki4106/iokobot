@@ -7,7 +7,7 @@ pip3 install iokobot
 ```
 or
 ```bash
-git clone
+git clone https://github.com/rizki4106/iokobot.git
 ```
 ```bash
 pip3 install -r requrements.txt
