@@ -9,7 +9,7 @@ def readme():
 setup(
   name = 'iokobot',
   packages = ['iokobot'],
-  version = '0.1',
+  version = '0.2',
   license='MIT',
   description = 'iokobot is a python library to help you make a smart bot, using machine learning algorithm',
   long_description=readme(),
@@ -21,7 +21,8 @@ setup(
   keywords = ['bot', 'chatbot', 'iokobot', 'machine-learning'],
   install_requires = [
       'scikit-learn',
-      'numpy'
+      'numpy',
+      'pandas'
   ],
   classifiers=[
     'Development Status :: 3 - Alpha',

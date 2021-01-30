@@ -7,4 +7,5 @@ iokobot/math.py
 iokobot.egg-info/PKG-INFO
 iokobot.egg-info/SOURCES.txt
 iokobot.egg-info/dependency_links.txt
+iokobot.egg-info/requires.txt
 iokobot.egg-info/top_level.txt
