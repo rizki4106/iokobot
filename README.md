@@ -10,7 +10,7 @@ or
 git clone https://github.com/rizki4106/iokobot.git
 ```
 ```bash
-pip3 install -r requrements.txt
+cd iokobot && pip3 install -r requrements.txt
 ```
 
 # How to use
