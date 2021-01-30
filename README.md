@@ -26,7 +26,7 @@ from iokobot import BotBody
 
 bot = BotBody()
 bot.fit("training.csv")
-pred = bot.predict(""What is programming language ?")
+pred = bot.predict("What is programming language ?")
 
 score = bot.score()
 
