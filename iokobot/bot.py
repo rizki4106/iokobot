@@ -1,8 +1,8 @@
-from sklearn.feature_extraction.text import TfidfVectorizer
+from .term import TermClassifier
 from .math import BotMath
 import pandas as pd
 
-class BotBody(BotMath):
+class BotBody(BotMath, TermClassifier):
 
     def __init__(self):
         self.questions = []
@@ -31,8 +31,8 @@ class BotBody(BotMath):
         get the answer by calculating text similarity based on tf-idf
         """
 
-        vector = TfidfVectorizer()
-        t_questions = vector.fit_transform(questions).toarray()
+        vector = TermClassifier()
+        t_questions = self._tfidf(questions.values)
 
         # calculate similarity
         similarity = []
