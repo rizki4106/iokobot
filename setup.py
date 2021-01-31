@@ -20,7 +20,6 @@ setup(
   download_url = 'https://github.com/rizki4106/iokobot/archive/v_01.tar.gz',
   keywords = ['bot', 'chatbot', 'iokobot', 'machine-learning'],
   install_requires = [
-      'scikit-learn',
       'numpy',
       'pandas'
   ],
