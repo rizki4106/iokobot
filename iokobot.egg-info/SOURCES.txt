@@ -4,6 +4,7 @@ setup.py
 iokobot/__init__.py
 iokobot/bot.py
 iokobot/math.py
+iokobot/term.py
 iokobot.egg-info/PKG-INFO
 iokobot.egg-info/SOURCES.txt
 iokobot.egg-info/dependency_links.txt
