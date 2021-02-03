@@ -31,9 +31,7 @@ class BotBody(BotMath, TermClassifier):
         get the answer by calculating text similarity based on tf-idf
         """
 
-        vector = TermClassifier()
         t_questions = self._tfidf(questions.values)
-
         # calculate similarity
         similarity = []
         for i in range(0, len(t_questions) - 1):
