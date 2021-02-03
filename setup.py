@@ -9,7 +9,7 @@ def readme():
 setup(
   name = 'iokobot',
   packages = ['iokobot'],
-  version = '0.5',
+  version = '0.6',
   license='MIT',
   description = 'iokobot is a python library to help you make a smart bot, using machine learning algorithm',
   long_description=readme(),
