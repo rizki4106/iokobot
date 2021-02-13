@@ -33,9 +33,10 @@ class TermClassifier:
                 tf = len(re.findall(word, document)) / len(bow)
                 idf = np.log(1 + len(doc) / 1 + len(re.findall(word, features))) + 1
                 
-                # normalization matrix
+                # normalization matrix by using euclidean norm
                 tfidf = (tf * idf)**2
                 arr.append(np.sqrt(tfidf))
+
             matrix.append(arr)
 
         return np.array(matrix)
