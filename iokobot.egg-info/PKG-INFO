@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: iokobot
-Version: 0.6
+Version: 0.7
 Summary: iokobot is a python library to help you make a smart bot, using machine learning algorithm
 Home-page: https://github.com/rizki4106/iokobot
 Author: Rizki Maulana
@@ -51,7 +51,7 @@ Description: # iokobot
         this bot will answer the questions based on similarity questions on training data, if you have more training data that would be better
 Keywords: bot,chatbot,iokobot,machine-learning
 Platform: UNKNOWN
-Classifier: Development Status :: 3 - Alpha
+Classifier: Development Status :: Release
 Classifier: Intended Audience :: Developers
 Classifier: Topic :: Software Development :: Build Tools
 Classifier: License :: OSI Approved :: MIT License
