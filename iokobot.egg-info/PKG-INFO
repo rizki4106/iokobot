@@ -51,7 +51,7 @@ Description: # iokobot
         this bot will answer the questions based on similarity questions on training data, if you have more training data that would be better
 Keywords: bot,chatbot,iokobot,machine-learning
 Platform: UNKNOWN
-Classifier: Development Status :: Release
+Classifier: Development Status :: 5 - Production/Stable
 Classifier: Intended Audience :: Developers
 Classifier: Topic :: Software Development :: Build Tools
 Classifier: License :: OSI Approved :: MIT License
