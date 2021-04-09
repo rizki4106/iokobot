@@ -1,5 +1,5 @@
-# iokobot
-iokobot is a python library for help you to create a bot easly. We use machine learning algorithm to develop this bot
+# ioko
+ioko is a python library for help you to create a bot easly. We use machine learning algorithm to develop this bot
 
 # Installation
 ```bash
@@ -22,7 +22,7 @@ This bot need training data for learn what should answer returned. you can use y
 | what is programming language ? |  programming language is a formal language comprising a set of instructions that produce various kinds of output. Programming languages are used in computer programming to implement algorithms |
 
 ```python
-from iokobot import BotBody
+from ioko import BotBody
 
 bot = BotBody()
 bot.fit("training.csv")
