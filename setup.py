@@ -9,18 +9,18 @@ def readme():
 
 
 setup(
-    name='iokobot',
-    packages=['iokobot'],
+    name='ioko',
+    packages=['ioko'],
     version='0.7',
     license='MIT',
-    description='iokobot is a python library to help you make a smart bot, using machine learning algorithm',
+    description='ioko is a python library to help you make a smart bot, using machine learning algorithm',
     long_description=readme(),
     long_description_content_type="text/markdown",
     author='Rizki Maulana',
     author_email='rizkimaulana348@gmail.com',
-    url='https://github.com/rizki4106/iokobot',
-    download_url='https://github.com/rizki4106/iokobot/archive/v_01.tar.gz',
-    keywords=['bot', 'chatbot', 'iokobot', 'machine-learning'],
+    url='https://github.com/rizki4106/ioko',
+    download_url='https://github.com/rizki4106/ioko/archive/v_01.tar.gz',
+    keywords=['bot', 'chatbot', 'ioko', 'machine-learning'],
     install_requires=[
         'numpy',
         'pandas',
