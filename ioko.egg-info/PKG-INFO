@@ -1,0 +1,44 @@
+Metadata-Version: 2.1
+Name: ioko
+Version: 0.0.1
+Summary: ioko is a python library to help you make learning system fast and easy to use
+Home-page: https://github.com/rizki4106/ioko
+Author: Rizki Maulana
+Author-email: rizkimaulana348@gmail.com
+License: MIT
+Download-URL: https://github.com/rizki4106/ioko/archive/v_01.tar.gz
+Description: # Ioko
+        
+        Ioko is a python library to help you create learning system, for now ioko can be use for :
+        
+        1. Chat Bot
+        2. Recommender System
+        
+        # Installation
+        
+        ```bash
+        pip3 install ioko
+        ```
+        
+        or contribute to this project
+        
+        ```bash
+        git clone https://github.com/rizki4106/ioko.git && cd ioko
+        ```
+        
+        ```bash
+        pip3 install -r requirements.txt
+        ```
+        
+        # Documentation
+        
+        For more information please visit our wiki right here [https://github.com/rizki4106/ioko/wiki](https://github.com/rizki4106/ioko/wiki)
+        
+Keywords: bot,chatbot,ioko,machine-learning
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Description-Content-Type: text/markdown

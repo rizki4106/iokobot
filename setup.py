@@ -11,9 +11,9 @@ def readme():
 setup(
     name='ioko',
     packages=['ioko'],
-    version='0.7',
+    version='0.0.1',
     license='MIT',
-    description='ioko is a python library to help you make a smart bot, using machine learning algorithm',
+    description='ioko is a python library to help you make learning system fast and easy to use',
     long_description=readme(),
     long_description_content_type="text/markdown",
     author='Rizki Maulana',

@@ -1,0 +1,14 @@
+README.md
+setup.cfg
+setup.py
+ioko/__init__.py
+ioko/bot.py
+ioko/math.py
+ioko/recommendation.py
+ioko/sentiment.py
+ioko/term.py
+ioko.egg-info/PKG-INFO
+ioko.egg-info/SOURCES.txt
+ioko.egg-info/dependency_links.txt
+ioko.egg-info/requires.txt
+ioko.egg-info/top_level.txt
